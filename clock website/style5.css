@@ -1,0 +1,23 @@
+.contaner{
+    padding: 90px;
+    border-radius: 25px;
+    /* margin: 0px;
+    border: 1px solid;
+    /* padding: 10px; */
+    /* box-shadow: 5px 10px #888888; */ 
+}
+#Time{
+    color: red;
+}
+.body{
+    background-color: black;
+}
+.bmg{
+    background-color: black;
+}
+.jumbotron{
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+    border-radius: 25px;
+}
